@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700'); 
+
+h1 {
+    font-size: $heading;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: $sub-heading;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: $regular-font-size;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: $small-font-size;
+    font-weight: 600;
+}
+
+h5 {
+    font-size: $small-font-size;
+}

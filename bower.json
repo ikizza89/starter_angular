@@ -1,0 +1,28 @@
+{
+  "name": "starter-app",
+  "authors": [
+    "Ilija Nikolić <nikolic89@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^1.11.1",
+    "angular": "1.5.8",
+    "angular-route": "1.5.8",
+    "angular-animate": "1.5.8",
+    "ngstorage": "^0.3.11",
+    "angular-ui-router": "0.3.1",
+    "angular-bootstrap": "^2.5.0",
+    "angular-sanitize": "1.5.8",
+    "animate.css": "^3.5.2",
+    "font-awesome": "^4.7.0"
+  }
+}
